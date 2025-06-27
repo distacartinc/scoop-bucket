@@ -1,19 +1,19 @@
 {
-    "version": "0.0.5",
+    "version": "0.0.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/distacartinc/distactl-public/releases/download/v0.0.5/distactl-Windows-i386.zip",
+            "url": "https://github.com/distacartinc/distactl-public/releases/download/v0.0.6/distactl-Windows-i386.zip",
             "bin": [
                 "distactl.exe"
             ],
-            "hash": "c4e3a82693e0469efac990a53df31988522c1df721fa529cfb0271ef808cedf9"
+            "hash": "ffa429d0f025a519629d67f5ff6fcc3d55829f0b6dbc08b14cdc287d8a4d5df1"
         },
         "64bit": {
-            "url": "https://github.com/distacartinc/distactl-public/releases/download/v0.0.5/distactl-Windows-x86_64.zip",
+            "url": "https://github.com/distacartinc/distactl-public/releases/download/v0.0.6/distactl-Windows-x86_64.zip",
             "bin": [
                 "distactl.exe"
             ],
-            "hash": "ec855f1092b709f3388038b7a358e86807a0f19930058cb1f8790839099f3d1c"
+            "hash": "39da5fd84593e4b70669ea89282130438932256bd9f2efa48896965ff2bc503b"
         }
     },
     "homepage": "https://github.com/distacartinc/distactl",
